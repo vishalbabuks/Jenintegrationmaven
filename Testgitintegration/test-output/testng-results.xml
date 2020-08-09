@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suitehrm" duration-ms="20893" started-at="2020-08-09T12:00:48Z" finished-at="2020-08-09T12:01:09Z">
+    <groups>
+    </groups>
+    <test name="Testhrm" duration-ms="20893" started-at="2020-08-09T12:00:48Z" finished-at="2020-08-09T12:01:09Z">
+      <class name="com.Testsorangehrm.Loginhrmtest">
+        <test-method status="PASS" signature="openbrowser()[pri:0, instance:com.Testsorangehrm.Loginhrmtest@55f3ddb1]" name="openbrowser" is-config="true" duration-ms="15413" started-at="2020-08-09T12:00:48Z" finished-at="2020-08-09T12:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method status="PASS" signature="getlogin()[pri:0, instance:com.Testsorangehrm.Loginhrmtest@55f3ddb1]" name="getlogin" duration-ms="5415" started-at="2020-08-09T12:01:03Z" finished-at="2020-08-09T12:01:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlogin -->
+      </class> <!-- com.Testsorangehrm.Loginhrmtest -->
+    </test> <!-- Testhrm -->
+  </suite> <!-- Suitehrm -->
+</testng-results>
